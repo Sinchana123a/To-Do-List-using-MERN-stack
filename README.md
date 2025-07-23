@@ -1,2 +1,15 @@
-# To-Do-List-using-MERN-stack
-A full-stack To-Do List app built with the MERN stack that lets users register, log in, and manage their daily tasks efficiently.
+# Setup Instructions
+
+1. Navigate to both the `frontend` and `backend` folders.
+2. Install the required dependencies by running:
+
+   ```bash
+   npm i
+OR
+ ```bash
+   npm install
+AND
+   Start the development servers by running:
+   npm start
+
+
